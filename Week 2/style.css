@@ -57,5 +57,44 @@
     color:white;
     font-size:15px;
     border:0px;
+    
 
+}
+#b2{
+    
+    border:1px solid #1DA1F2;
+    width:300px;
+    height:30px;
+    margin-left:100px;
+    background-color:white;
+    border-radius:25px;
+    color: #1DA1F2;
+    font-size:15px;
+    
+    
+    
+
+}
+
+#b1:hover{
+
+    background-color:#1089D3;
+    cursor:grab;
+    
+}
+
+#b2:hover{
+
+    background-color:lightblue;
+    cursor:grab;
+    
+}
+
+a{
+    margin-left:12.5px;
+    text-decoration:none;
+    color:#657786;
+    font-size: small;
+    font-family: Segoe UI;
+    
 }
