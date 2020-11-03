@@ -1,0 +1,33 @@
+img{
+    width:100px;
+    height:100px;
+}
+
+table{
+
+    border:1px solid;
+    border-collapse:collapse;
+}
+
+td,tr,th{
+    border:1px solid;
+}
+
+#pheading{
+    display:inline-block;
+}
+
+fieldset{
+    width:600px;
+    border-radius:10px;
+    
+}
+legend{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#customerinf label{
+    display:inline-block;
+    width:110px;
+    text-align:left;
+    
+}
